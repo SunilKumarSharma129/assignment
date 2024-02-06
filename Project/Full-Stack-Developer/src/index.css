@@ -1,0 +1,27 @@
+.upcoming-interview-page {
+  text-align: center;
+}
+
+.interview-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.interview-item {
+  border: 1px solid #ea0606;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s, border-color 0.3s;
+}
+
+.interview-item:hover {
+  background-color: #d50000;
+  border-color: #aaa;
+}
+
+.interview-item.hovered {
+  background-color: #c0c0c0;
+  border-color: #888;
+}

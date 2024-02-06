@@ -1,0 +1,10 @@
+.upcomming {
+    position: absolute; 
+    top: 48.5px; 
+    left: 45px; 
+    font-family: Lexend; /* Heading */
+    font-size: 29px; 
+    font-weight: 700; 
+    line-height: 44px; 
+    color: #171A1FFF; /* neutral-900 */
+  }
